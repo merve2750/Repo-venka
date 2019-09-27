@@ -1,0 +1,9 @@
+*.log
+.classpath
+.checkstyle
+.project
+.settings
+target
+testdb
+.idea/
+*.iml
